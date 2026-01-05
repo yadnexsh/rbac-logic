@@ -1,0 +1,13 @@
+# Project Overview
+
+This repository contains a lightweight Role-Based Access Control (RBAC) access engine.
+The goal is to clearly define access rules and enforce them in a predictable, secure manner.
+
+The project is built in stages:
+- System scope definition
+- Access policy definition
+- Permission check structure
+- Python enforcement logic
+- Testing and validation
+
+Design decisions are documented before implementation to ensure clarity and correctness.
